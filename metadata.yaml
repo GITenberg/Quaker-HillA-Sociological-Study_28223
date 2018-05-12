@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33212'
     url: http://www.gutenberg.org/2009/agents/33212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28223#Quaker-HillA-Sociological-Study
 gutenberg_issued: '2009-03-01'
 gutenberg_type: Text
 identifiers:
